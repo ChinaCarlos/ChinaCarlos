@@ -20,16 +20,4 @@
         src="https://github-readme-streak-stats.herokuapp.com/?user=ChinaCarlos&theme=tokyonight&hide_border=true"
         alt="Shizu-ka" /></p>
   </a>
-
-  ![](https://img.shields.io/badge/any_text-you_like-blue)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChinaCarlos&theme=aura_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChinaCarlos&theme=aura_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChinaCarlos&theme=aura_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChinaCarlos&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChinaCarlos&theme=aura_dark&utcOffset=8)
-
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
